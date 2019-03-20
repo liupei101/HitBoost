@@ -37,23 +37,22 @@ Arguments Explanation:
 - `silent`: `bool`. Whether print info on screen.
 - `save_model_as`: `str`. Path for saving fitted model.
 
-Complete parameters of `HitBoost`:
+Complete `model_params`:
 
 ```
-For example:
-    params = {
-        'eta': 0.1,
-        'max_depth':3, 
-        'min_child_weight': 8, 
-        'subsample': 0.9,
-        'colsample_bytree': 0.5,
-        'gamma': 0,
-        'lambda': 0,
-        'silent': 1,
-        'objective': 'multi:softprob',
-        'num_class': K+1,
-        'seed': 42
-    }
+model_params = {
+    'eta': 0.1,
+    'max_depth':3, 
+    'min_child_weight': 8, 
+    'subsample': 0.9,
+    'colsample_bytree': 0.5,
+    'gamma': 0,
+    'lambda': 0,
+    'silent': 1,
+    'objective': 'multi:softprob',
+    'num_class': K+1,
+    'seed': 42
+}
 ```
 
 Runing `HitBoost`: 
