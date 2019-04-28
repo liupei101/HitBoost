@@ -72,4 +72,7 @@ In the future, some features that need to be advanced in this repo are as follow
 
 ### Citation
 
-- P. Liu, B. Fu and S. X. Yang, "HitBoost: Survival Analysis via A Multi-output Gradient Boosting Decision Tree Method," in IEEE Access. doi: 10.1109/ACCESS.2019.2913428
+- P. Liu, B. Fu and S. X. Yang, "HitBoost: Survival Analysis via A Multi-output Gradient Boosting Decision Tree Method," in IEEE Access.
+- doi: 10.1109/ACCESS.2019.2913428
+- keywords: {Hazards;Predictive models;Boosting;Stochastic processes;Decision trees;Diseases;Neural networks;Disease prognosis;first hitting time;gradient boosting decision tree;machine learning;survival analysis},
+- URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8700177&isnumber=6514899
