@@ -1,7 +1,11 @@
 # HitBoost
-Survival Analysis via a Multi-output Gradient Boosting Decision Tree method
+Survival Analysis via a Multi-output Gradient Boosting Decision Tree method.
 
-### Running Requirements
+More details can refer to [this](https://doi.org/10.1109/ACCESS.2019.2913428) that has been published in IEEE Access. Citation could be found in [#Citation](#citation).
+
+If you have any questions, feel free to submit your issues.
+
+### Requirements
 
 Requirements:
 
@@ -58,3 +62,14 @@ model_params = {
 Runing `HitBoost`: 
 
 - See more in `core/demo.py`.
+
+### TODO
+
+In the future, some features that need to be advanced in this repo are as follows:
+- support for `python 3.x`
+- more stability of the customized loss function
+- docs of usage
+
+### Citation
+
+- P. Liu, B. Fu and S. X. Yang, "HitBoost: Survival Analysis via A Multi-output Gradient Boosting Decision Tree Method," in IEEE Access. doi: 10.1109/ACCESS.2019.2913428
