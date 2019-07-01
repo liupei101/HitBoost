@@ -5,6 +5,10 @@ More details can refer to [this](https://doi.org/10.1109/ACCESS.2019.2913428) th
 
 If you have any questions, feel free to submit your issues.
 
+### Notice
+
+**This repo has been merged into an new package [`libsurv`](https://github.com/liupei101/libsurv). You can refer to it for more details.**
+
 ### Requirements
 
 Requirements:
